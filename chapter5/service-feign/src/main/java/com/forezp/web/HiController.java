@@ -19,4 +19,9 @@ public class HiController {
     public String sayHi(@RequestParam String name){
         return schedualServiceHi.sayHiFromClientOne(name);
     }
+
+    @RequestMapping(value = "/api-a",method = RequestMethod.GET)
+    public String sayHiZuul(@RequestParam String name){
+        return schedualServiceHi.sayHiFromClientOneZuul(name);
+    }
 }

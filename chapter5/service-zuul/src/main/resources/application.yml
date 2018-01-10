@@ -14,4 +14,5 @@ zuul:
       serviceId: service-ribbon
     api-b:
       path: /api-b/**
-      serviceId: service-feign
+#      serviceId: service-feign
+      url: www.baidu.com

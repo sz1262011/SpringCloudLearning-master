@@ -6,19 +6,57 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-client (1)" />
+        <module name="config-server" />
+        <module name="config-server (1)" />
+        <module name="consul-miya" />
+        <module name="eureka-server" />
         <module name="eureka-server (1)" />
+        <module name="eureka-server (2)" />
+        <module name="eureka-server (3)" />
+        <module name="eureka-server (4)" />
+        <module name="gateway-service" />
+        <module name="server-zipkin" />
+        <module name="service-feign" />
+        <module name="service-hi" />
+        <module name="service-hi (1)" />
+        <module name="service-lucy" />
+        <module name="service-ribbon" />
+        <module name="service-turbine" />
+        <module name="service-zipkin" />
+        <module name="service-zuul" />
+        <module name="service2-zipkin" />
+        <module name="user-service" />
+        <module name="zipkin-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="chapter1" target="1.5" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client (1)" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="config-server (1)" target="1.8" />
+      <module name="consul-miya" target="1.8" />
       <module name="eureka-server" target="1.8" />
       <module name="eureka-server (1)" target="1.8" />
       <module name="eureka-server (2)" target="1.8" />
+      <module name="eureka-server (3)" target="1.8" />
+      <module name="eureka-server (4)" target="1.8" />
+      <module name="gateway-service" target="1.8" />
       <module name="server-zipkin" target="1.8" />
+      <module name="service-feign" target="1.8" />
       <module name="service-hi" target="1.8" />
       <module name="service-hi (1)" target="1.8" />
+      <module name="service-lucy" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-turbine" target="1.8" />
       <module name="service-zipkin" target="1.8" />
+      <module name="service-zuul" target="1.8" />
       <module name="service2-zipkin" target="1.8" />
+      <module name="sleuth" target="1.8" />
+      <module name="user-service" target="1.8" />
+      <module name="zipkin-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

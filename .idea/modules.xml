@@ -3,7 +3,30 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringCloudLearning-master.iml" filepath="$PROJECT_DIR$/.idea/SpringCloudLearning-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/chapter11/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chapter11/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/config-client/config-client.iml" filepath="$PROJECT_DIR$/chapter6/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/config-client/config-client (1).iml" filepath="$PROJECT_DIR$/chapter8/config-client/config-client (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter6/config-server/config-server.iml" filepath="$PROJECT_DIR$/chapter6/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/config-server/config-server (1).iml" filepath="$PROJECT_DIR$/chapter8/config-server/config-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/consul-miya/consul-miya.iml" filepath="$PROJECT_DIR$/chapter14/consul-miya/consul-miya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/chapter13/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-mysql/eureka-server/eureka-server (1).iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-mysql/eureka-server/eureka-server (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter8/eureka-server/eureka-server (2).iml" filepath="$PROJECT_DIR$/chapter8/eureka-server/eureka-server (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/eureka-server/eureka-server (3).iml" filepath="$PROJECT_DIR$/chapter11/eureka-server/eureka-server (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11-2/eureka-server/eureka-server (4).iml" filepath="$PROJECT_DIR$/chapter11-2/eureka-server/eureka-server (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-mysql/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-mysql/gateway-service/gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/server-zipkin/server-zipkin.iml" filepath="$PROJECT_DIR$/chapter9/server-zipkin/server-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-feign/service-feign.iml" filepath="$PROJECT_DIR$/chapter5/service-feign/service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/service-hi/service-hi.iml" filepath="$PROJECT_DIR$/chapter13/service-hi/service-hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter11/service-hi/service-hi (1).iml" filepath="$PROJECT_DIR$/chapter11/service-hi/service-hi (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/service-lucy/service-lucy.iml" filepath="$PROJECT_DIR$/chapter13/service-lucy/service-lucy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-ribbon/service-ribbon.iml" filepath="$PROJECT_DIR$/chapter5/service-ribbon/service-ribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/service-turbine/service-turbine.iml" filepath="$PROJECT_DIR$/chapter13/service-turbine/service-turbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/service-hi/service-zipkin.iml" filepath="$PROJECT_DIR$/chapter9/service-hi/service-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter5/service-zuul/service-zuul.iml" filepath="$PROJECT_DIR$/chapter5/service-zuul/service-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/service-miya/service2-zipkin.iml" filepath="$PROJECT_DIR$/chapter9/service-miya/service2-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-mysql/sleuth.iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-mysql/sleuth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-mysql/user-service/user-service.iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-mysql/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter-sleuth-stream-mysql/zipkin-server/zipkin-server.iml" filepath="$PROJECT_DIR$/chapter-sleuth-stream-mysql/zipkin-server/zipkin-server.iml" />
     </modules>
   </component>
 </project>

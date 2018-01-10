@@ -3,7 +3,16 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/chapter11/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/service-hi/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/service-lucy/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter13/service-turbine/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-mysql/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-mysql/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-mysql/user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-mysql/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter-sleuth-stream-mysql/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/chapter14/consul-miya/pom.xml" />
       </list>
     </option>
   </component>
